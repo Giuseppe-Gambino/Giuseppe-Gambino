@@ -14,6 +14,4 @@
 - Grande fan di anime e videogames  
 - Credo che il codice debba essere **funzionale ma anche bello**
 
-## 🌐 Contattami
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/giuseppe-gambino03)

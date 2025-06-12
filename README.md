@@ -1,10 +1,31 @@
-- 👋 Hi, I’m @Giuseppe-Gambino
-- 👀 I’m interested in front-end development and UX/UI Design
-- 🌱 I’m currently learning Angular
-- 📫 giuseppegambino870@gmail.com
-- ⚡ Shinzō wo sasageyo!
+# 👋 Ciao, sono Giuseppe Gambino
 
-<!---
-Giuseppe-Gambino/Giuseppe-Gambino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 Front-end Developer con passione per il design UX/UI  
+🎨 Amo creare interfacce moderne, pulite e intuitive  
+🚀 Attualmente sto approfondendo **Angular**  
+📍 Vivo in Italia  
+📫 giuseppegambino870@gmail.com  
+⚡ *"Shinzō wo sasageyo!"* 🛡️
+
+---
+
+## 🛠️ Tech Stack
+
+- **Linguaggi**: HTML, CSS, JavaScript, TypeScript  
+- **Framework & Librerie**: Angular (in apprendimento), React (prossimamente), Sass  
+- **Design Tools**: Canva, Figma (in apprendimento)
+- **Altri strumenti**: Git, GitHub, VS Code, Intellij
+
+## 📌 Curiosità su di me
+
+- Amo il design minimalista  
+- Studio costantemente per migliorarmi  
+- Grande fan di anime e videogames  
+- Credo che il codice debba essere **funzionale ma anche bello**
+
+---
+
+## 🌐 Contattami
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/giuseppe-gambino03)  
+📫 giuseppegambino870@gmail.com

@@ -9,13 +9,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Linguaggi**: HTML, CSS, JavaScript, TypeScript  
-- **Framework & Librerie**: Angular (in apprendimento), React (prossimamente), Sass  
-- **Design Tools**: Canva, Figma (in apprendimento)
-- **Altri strumenti**: Git, GitHub, VS Code, Intellij
-
 ## 📌 Curiosità su di me
 
 - Amo il design minimalista  

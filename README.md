@@ -15,3 +15,5 @@
 - Credo che il codice debba essere **funzionale ma anche bello**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/giuseppe-gambino03)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue)]([https://www.linkedin.com/in/giuseppe-gambino03](https://giuseppe-gambino.netlify.app)
+

@@ -2,7 +2,7 @@
 
 🎯 Front-end Developer con passione per il design UX/UI  
 🎨 Amo creare interfacce moderne, pulite e intuitive  
-🚀 Attualmente sto approfondendo **Angular**  
+🚀 Attualmente sto approfondendo **Angular**, **Figma**, **Firebase**  
 📍 Vivo in Italia  
 📫 giuseppegambino870@gmail.com  
 ⚡ *"Shinzō wo sasageyo!"* 🛡️

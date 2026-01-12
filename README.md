@@ -1,6 +1,6 @@
 # 👋 Ciao, sono Giuseppe Gambino
 
-🎯 Front-end Developer con passione per il design UX/UI  
+🎯 Front-end Developer presso Go.
 🎨 Amo creare interfacce moderne, pulite e intuitive  
 🚀 Attualmente sto approfondendo **Angular**, **Figma**, **Firebase**  
 📍 Vivo in Italia  

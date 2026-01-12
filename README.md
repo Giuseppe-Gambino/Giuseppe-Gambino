@@ -1,8 +1,8 @@
 # 👋 Ciao, sono Giuseppe Gambino
 
-🎯 Front-end Developer presso Go.
+🎯 Front-end Developer presso Go.  
 🎨 Amo creare interfacce moderne, pulite e intuitive  
-🚀 Attualmente sto approfondendo **Angular**, **Figma**, **Firebase**  
+🚀 Attualmente sto studiano **Astro**, **React**, **Wordpress**  
 📍 Vivo in Italia  
 📫 giuseppegambino870@gmail.com  
 ⚡ *"Shinzō wo sasageyo!"* 🛡️
